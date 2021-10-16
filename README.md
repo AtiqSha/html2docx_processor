@@ -1,4 +1,4 @@
-### html2docx_processor
+### html2docx_processor (intended specific usage)
 
 To convert html file into docx file.
 
